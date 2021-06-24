@@ -1,0 +1,2 @@
+# PaintingPixelsConsoleEdition
+Painting pixels exercise
